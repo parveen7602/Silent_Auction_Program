@@ -1,0 +1,56 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+*.manifest
+*.spec
+
+# --- Virtual Environments ---
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# --- IDE / Editor Files ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs and Temp Files ---
+*.log
+*.tmp
+*.bak
+
+# --- Jupyter / IPython ---
+.ipynb_checkpoints
+
+# --- Testing ---
+.coverage
+htmlcov/
+.tox/
+.nox/
+pytest_cache/
+
+# --- User Data (if storing bids or results locally) ---
+data/
+bids.json
+bids.csv
+bids.txt
+
+# --- Misc ---
+*.sqlite3
+*.db
