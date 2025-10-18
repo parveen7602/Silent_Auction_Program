@@ -1,0 +1,11 @@
+# Example Output  
+What is your name?: Ramesh
+What is your bid?: 2,00,000
+Are there more bidders? Type 'yes' or 'no': yes
+
+(Screen clears)
+What is your name?: Ram
+What is your bid?: 2,50,000
+Are there more bidders? Type 'yes' or 'no': no
+
+The winner is Ram with a bid price of ₹2,50,000
