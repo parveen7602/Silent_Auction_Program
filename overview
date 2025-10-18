@@ -1,0 +1,21 @@
+Overview
+
+The Silent Auction Program is a Python-based console application that allows multiple participants to place their bids secretly.
+After all participants have entered their bids, the program determines and displays the winner — the person who placed the highest bid.
+
+Features
+
+✅ Accepts multiple bidders and their bid amounts
+✅ Clears the screen between bidders (for privacy)
+✅ Automatically determines the highest bidder
+✅ Displays the winner with their bid amount
+✅ Beginner-friendly, with simple logic and clean structure
+
+Concepts Used
+
+The program asks each participant for their name and bid amount.
+After entering a bid, the user specifies if there are more bidders.
+If yes, the screen is cleared, and the next bidder enters their bid.
+When no more bidders remain, the program finds the highest bid and announces the winner.
+
+        
